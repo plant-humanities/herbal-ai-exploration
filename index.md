@@ -19,3 +19,4 @@ The intricate frame and decorative elements surrounding the portrait suggest the
 # Experiments
 
 - [Translation](translation)
+- [Translation](/translation)
