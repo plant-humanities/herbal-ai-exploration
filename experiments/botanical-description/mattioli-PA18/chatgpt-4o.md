@@ -4,7 +4,7 @@
 
 In this experiment a cropped illustration from the Mattioli herbal (from page 18) was submitted to the ChatGPT AI tool (model 4o) and the tool was asked to provide a botanical description of the illustration without the benefit of any accompanying text.  An initial description was provided and then subsequently refined to include historical uses and regional variations.  The tool also attempted to identify the plant species based on the illustration.
 
-The A! model used for this experiment was **ChatGPT 4o**
+The AI model used for this experiment was **ChatGPT 4o**
 
 ##
 `.tabs`
@@ -17,7 +17,7 @@ The A! model used for this experiment was **ChatGPT 4o**
 
 `image gh:plant-humanities/ai-experiments/experiments/botanical-description/mattioli-18/illustration.jpg "Mattioli Herbal - 1604, illustration from pg 18" large center`
 
-# AI Chat
+# AI chat log
 
 ##
 
