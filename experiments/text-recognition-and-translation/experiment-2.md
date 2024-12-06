@@ -10,11 +10,17 @@ By [Pietro Andrea Mattioli](Q457191) · 1604
 
 In this experiment...
 
-[Child link](child)
-
 # AI Chat
 
->**Prompt:** Perform a strict translation of the text on this page image
+##
+
+###
+`.prompt`
+
+Perform a strict translation of the text on this page image
+
+###
+`.response`
 
 The text in the image is in Italian and seems to be a dedication or preface from an old manuscript or book. I will transcribe and translate it into English for you. Let’s start with the transcription:
 
@@ -44,7 +50,15 @@ Since our life is the most dear and precious thing we enjoy in this world (espec
 
 The page continues with an elaborate dedication and contextual discussion. Let me know if you’d like a full translation of the remaining text.
 
->**Prompt:** Translate all of the text on the page
+##
+
+###
+`.prompt`
+
+Translate all of the text on the page
+
+###
+`.response`
 
 Here is a full translation of the text from the page into English:
 

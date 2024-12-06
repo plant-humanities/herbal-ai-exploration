@@ -4,3 +4,11 @@
   background-color: #eee;
   color: black;
 }
+
+.prompt {
+  border: 1px solid red;
+}
+
+.response {
+  border: 1px solid blue;
+}

@@ -18,4 +18,4 @@ The intricate frame and decorative elements surrounding the portrait suggest the
 
 # Experiments
 
-- [Translation](translation)
+- [Text recognition and translation](experiments/text-recognition-and-translation)
