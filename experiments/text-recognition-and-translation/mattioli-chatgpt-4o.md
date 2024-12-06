@@ -1,14 +1,14 @@
 `breadcrumbs`
 
-# De I Discorsi Di M. Pietro Andrea Matthioli Sanese
-
-*La quale contiene il Primo, & Secondo libro · Volume 4*
-
-By [Pietro Andrea Mattioli](Q457191) · 1604
+# Text recognition and translation experiment
 
 `google-books #iframe1 cDBgAAAAcAAJ "Mattioli Herbal - 1604" pageid=PP9 right`
 
-In this experiment...
+In this experiment a [page image](https://books.google.com/books/content?id=cDBgAAAAcAAJ&pg=PP9&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2wXAo8ykSVOub4ulhGjCkYNtw2jQ&w=1025) with headings and text spanning the full length of the page (including an illuminated initial) is submitted to the AI tool for text recognition (Optical Character Recognition) and translation into English.  The original text on was in Italian.
+
+The initial response from the AI tool only included OCR and translation of the headings and first part of the text.  A second prompt requested the full page to be processed.  The full chat is included below.
+
+The A! model used for this text recognition and translation experiment was **ChatGPT 4o**
 
 # AI Chat
 

@@ -2,5 +2,4 @@
 
 # Text recognition and translation
 
-- [Experiment 1](experiment-1)
-- [Experiment 2](experiment-2)
+- [Using page from Mattioli herbal and ChatGPT 4o](mattioli-chatgpt-4o)
