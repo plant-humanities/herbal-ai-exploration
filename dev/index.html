@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <base href="/">
+    <meta charset=utf-8>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Juncture</title>
+    <link href="https://v3.juncture-digital.org/images/favicon.svg" rel="icon" type="image/svg+xml"/>
+    <link href="https://v3.juncture-digital.org/images/favicon.png" rel="icon" type="image/png"/>
+    <link rel="apple-touch-icon" href="https://v3.juncture-digital.org/images/mobile-icon.png">
+    <link rel="stylesheet" href="https://ifc.juncture-digital.org/css/index.css" />
+  </head
+  <body>
+    <main></main>
+
+    <script type="module">
+      import { restructure, makeEntityPopups } from 'https://ifc.juncture-digital.org/js/index.js'
+      import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
+      import 'https://cdn.jsdelivr.net/npm/marked-footnote/dist/index.umd.min.js'
+            
+      let baseurl, acct, repo, path, branch
+
+      if (location.hostname === 'localhost') { // local dev
+        path = location.pathname.split('/').filter(pe => pe).slice(location.hostname.indexOf('github.io') > -1 ? 1 : 0).join('/')
+        baseurl = location.origin
+      } else {
+        [acct, repo, ...path] = location.pathname.split('/').filter(pe => pe).slice(location.hostname.indexOf('github.io') > -1 ? 1 : 0)
+        branch = new URL(location.href).searchParams.get('ref') || 'main'
+        baseurl = `https://raw.githubusercontent.com/${acct}/${repo}/${branch}`
+        path = path.join('/')
+      }
+
+      // Get the content
+      let locationsToCheck = []
+      if (/\.md$/.test(path)) { 
+        locationsToCheck.push(`${baseurl}/${path}`)
+      } else {
+        if (path.length) locationsToCheck.push(`${baseurl}/${path}.md`)
+        locationsToCheck.push(`${baseurl}/${path}${path && '/'}index.md`)
+        locationsToCheck.push(`${baseurl}/${path}${path && '/'}README.md`)
+      }
+
+      const markdown = await Promise.all(locationsToCheck.map(loc => fetch(loc)))
+        .then(resp => resp.find(r => {
+          if (r.status === 200) {
+            console.log(r.url)
+            console.log(r.url.split('/').filter(e => e).slice(2).join('/'))
+            let base = `/${r.url.split('/').filter(e => e).slice(2).join('/').replace(/\/?README\.md$/, '').replace(/\/?index\.md$/, '').replace(/\.md$/, '')}/`.replace(/\/\//g, '/')
+            console.log(base)
+            document.querySelector('base').setAttribute('href', base)
+            return true
+          }
+          return r?.status === 200
+        })?.text())
+      let html = marked.use(window.markedFootnote()).parse(markdown)
+      let rootEl = new DOMParser().parseFromString(html, 'text/html').querySelector('html')
+      document.body.innerHTML = restructure(rootEl).outerHTML
+      makeEntityPopups(document.body)
+        
+    </script>
+
+  </body>
+</html>
