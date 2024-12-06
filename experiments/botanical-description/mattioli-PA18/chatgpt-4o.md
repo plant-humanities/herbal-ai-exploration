@@ -6,6 +6,15 @@ In this experiment a cropped illustration from the Mattioli herbal (from page 18
 
 The A! model used for this experiment was **ChatGPT 4o**
 
+##
+`.tabs`
+
+### Herbal page
+
+`google-books #iframe1 cDBgAAAAcAAJ "Mattioli Herbal - 1604" pageid=PA18 medium center`
+
+### Processed image (cropped)
+
 `image gh:plant-humanities/ai-experiments/experiments/botanical-description/mattioli-18/illustration.jpg "Mattioli Herbal - 1604, illustration from pg 18" large center`
 
 # AI Chat

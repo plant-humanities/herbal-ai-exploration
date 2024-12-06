@@ -19,3 +19,4 @@ The intricate frame and decorative elements surrounding the portrait suggest the
 # Experiments
 
 - [Text recognition and translation](experiments/text-recognition-and-translation)
+- [Botanical description of plant illustrations](experiments/botanical-description)
