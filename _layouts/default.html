@@ -1,10 +1,12 @@
 <!doctype html>
+<base href="/" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="//ifc.juncture-digital.org/css/index.css" />
-<link rel="stylesheet" href="custom.css" />
+<link rel="stylesheet" href="/custom.css" />
 <main class="ghp">{{ content }}</main>
-<script>
+<script type="module">
     let prefix = location.hostname.indexOf('github.io') > 0 ? `/${location.pathname.split('/')[1]}` : ''
-    // document.querySelector('base').setAttribute('href', prefix + '{{page.dir}}')
+    let base = prefix + '{{page.dir}}'
+    document.querySelector('base').setAttribute('href', base)
 </script>
 <script src="//ifc.juncture-digital.org/js/index.js" type="module"></script>
