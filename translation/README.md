@@ -1,5 +1,5 @@
 <sl-breadcrumb>
-  <sl-breadcrumb-item>ai-experiment</sl-breadcrumb-item>
+  <sl-breadcrumb-item href="/">home</sl-breadcrumb-item>
   <sl-breadcrumb-item>translation</sl-breadcrumb-item>
 </sl-breadcrumb>
 
