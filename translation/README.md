@@ -1,7 +1,4 @@
-<sl-breadcrumb>
-  <sl-breadcrumb-item href="/ai-experiments/">home</sl-breadcrumb-item>
-  <sl-breadcrumb-item>translation</sl-breadcrumb-item>
-</sl-breadcrumb>
+`breadcrumbs`
 
 # De I Discorsi Di M. Pietro Andrea Matthioli Sanese
 
