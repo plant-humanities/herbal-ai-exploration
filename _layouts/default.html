@@ -4,10 +4,5 @@
 <link rel="stylesheet" href="//ifc.juncture-digital.org/css/index.css" />
 <link rel="stylesheet" href="custom.css" />
 <main class="ghp">{{ content }}</main>
-<script>
-    console.log(location)
-    let base = (location.hostname.indexOf('github.io') > 0 ? `/${location.pathname.split('/')[1]}` : '') + '{{page.dir}}'
-    console.log(`base: ${base}`)
-    document.querySelector('base').setAttribute('href', base)
-</script>
+<script>document.querySelector('base').setAttribute('href', (location.hostname.indexOf('github.io') > 0 ? `/${location.pathname.split('/')[1]}` : '') + '{{page.dir}}')</script>
 <script src="//ifc.juncture-digital.org/js/index.js" type="module"></script>
