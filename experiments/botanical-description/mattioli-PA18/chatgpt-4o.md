@@ -40,8 +40,8 @@ The illustration appears to depict a botanical drawing of an iris plant, likely 
 3.	**Flowers:**
     - The flowers are positioned on erect stalks and display the characteristic bilaterally symmetrical (zygomorphic) structure of iris blooms.
     - The petals are divided into two distinct groups:
-    - Outer petals (falls): Broader and drooping, often serving as a landing platform for pollinators.
-    - Inner petals (standards): Erect and narrower, positioned upright.
+        - Outer petals (falls): Broader and drooping, often serving as a landing platform for pollinators.
+        - Inner petals (standards): Erect and narrower, positioned upright.
     - The flower anatomy appears consistent with the genus Iris, though the exact species is difficult to determine without coloration or additional context.
 4.	**Stem:**
     - The plant features a robust, upright flowering stalk that supports multiple flowers. The stems appear smooth and unbranched, typical of iris plants.
