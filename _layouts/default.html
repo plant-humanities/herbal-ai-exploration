@@ -1,10 +1,10 @@
 <!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="//ifc.juncture-digital.org/css/index.css" />
-<link rel="stylesheet" href="/custom.css" />
+<link rel="stylesheet" href="{{site.baseurl}}custom.css" />
 <main class="ghp">{{ content }}</main>
 <script src="//ifc.juncture-digital.org/js/index.js" type="module"></script>
 <script>
-    const config = {site:{baseurl:'{{site.baseurl}}',github:{owner_name:'{{site.github.owner_name}}',repository_name:'{{site.github.repository_name}}',source:{branch:'{{site.github.source.branch}}'}}},page:{path:'{{page.path}}',dir:'{{page.dir}}',name:'{{page.name}}'}}
-    console.log(config)
+    const base = '{{site.baseurl}}{{page.dir}}'
+    console.log(`base: ${base}`)
 </script>
