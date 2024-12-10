@@ -8,7 +8,7 @@ In this experiment a [page image](https://books.google.com/books/content?id=cDBg
 
 The initial response from the AI tool only included OCR and translation of the headings and first part of the text.  A second prompt requested the full page to be processed.  The full chat is included below.
 
-The AI model used for this text recognition and translation experiment was **ChatGPT 4o**
+**AI tool/model used:** ChatGPT 4o
 
 # AI chat log
 

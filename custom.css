@@ -24,6 +24,17 @@ body {
   margin: 1em 0 3em 2em;
 }
 
+.response h5 {
+  font-size: 1.2em;
+  color: #1F2328;
+
+}
+
+.response h6 {
+  font-size: 1em;
+  color: #1F2328;  
+}
+
 .markdown-body hr {
   box-sizing: content-box;
   overflow: hidden;
@@ -32,4 +43,15 @@ body {
   padding: 0;
   margin: 12px 0;
   background-color: #d0d7de;
+}
+
+section:after {
+  content: unset;
+}
+
+.markdown-body .sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }

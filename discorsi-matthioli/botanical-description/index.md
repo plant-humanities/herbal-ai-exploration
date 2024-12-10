@@ -2,4 +2,5 @@
 
 # Botanical description
 
-- [Using illustration from Mattioli herbal and ChatGPT 4o](mattioli-PA18/chatgpt-4o)
+- [Page ID PA18](pa18)
+- [Page ID PA30](pa30)

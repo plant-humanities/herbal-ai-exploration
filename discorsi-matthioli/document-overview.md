@@ -2,9 +2,9 @@
 
 # Document summarization
 
-`google-books #iframe1 cDBgAAAAcAAJ "Mattioli Herbal - 1604" right`
-
 This experiment consisted of general inquiry with ChatGPT about its knowledge of the text.
+
+**AI tool/model used:** ChatGPT 4o
 
 # AI chat log
 
