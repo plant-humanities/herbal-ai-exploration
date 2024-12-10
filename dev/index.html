@@ -31,7 +31,7 @@
         path = path.join('/')
       }
 
-      // Get the content
+      // Get the markdown content
       let locationsToCheck = []
       if (/\.md$/.test(path)) { 
         locationsToCheck.push(`${baseurl}/${path}`)
@@ -40,19 +40,16 @@
         locationsToCheck.push(`${baseurl}/${path}${path && '/'}index.md`)
         locationsToCheck.push(`${baseurl}/${path}${path && '/'}README.md`)
       }
-
       const markdown = await Promise.all(locationsToCheck.map(loc => fetch(loc)))
         .then(resp => resp.find(r => {
           if (r.status === 200) {
-            console.log(r.url)
-            console.log(r.url.split('/').filter(e => e).slice(2).join('/'))
             let base = `/${r.url.split('/').filter(e => e).slice(2).join('/').replace(/\/?README\.md$/, '').replace(/\/?index\.md$/, '').replace(/\.md$/, '')}/`.replace(/\/\//g, '/')
-            console.log(base)
             document.querySelector('base').setAttribute('href', base)
             return true
           }
           return r?.status === 200
         })?.text())
+      // convert markdown to html and add to the DOM
       let html = marked.use(window.markedFootnote()).parse(markdown)
       let rootEl = new DOMParser().parseFromString(html, 'text/html').querySelector('html')
       document.body.innerHTML = restructure(rootEl).outerHTML
