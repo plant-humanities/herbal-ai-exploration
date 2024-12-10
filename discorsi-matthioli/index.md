@@ -18,4 +18,5 @@ The highest-resolution version of selected pages were extracted from the documen
   - [Page ID PP9](text-recognition-and-translation/pp9)
 - [Botanical description of plant illustrations](botanical-description)
   - [Page ID PA18](botanical-description/pa18)
+  - [Page ID PA24](botanical-description/pa24)
   - [Page ID PA30](botanical-description/pa30)
