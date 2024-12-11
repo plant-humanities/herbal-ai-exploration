@@ -55,3 +55,8 @@ section:after {
   top: 0;
   z-index: 1000;
 }
+
+.markdown-section iframe[src*="image"],
+.markdown-body iframe[src*="image"] {
+  aspect-ratio: 0.63;
+}
