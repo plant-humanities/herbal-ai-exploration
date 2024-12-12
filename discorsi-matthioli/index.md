@@ -4,12 +4,11 @@
 
 ## De I Discorsi di M. Pietro Andrea Matthioli
 
-> Of the Discourses of M. Pietro Andrea Matthioli Sanese, Caesarean Doctor, and of the Most Serene Prince Ferdinando Archduke of Avstria, etc. In the six books of Pedacio Dioscorides Anazarbeo Della Materia Medicinale ... With two very copious tables relating to the vna to what, which throughout the work it is contained; & the other to cure all the infirmities of the human body
-Which contains the First, & Second books · Volume 4
+*De I Discorsi di M. Pietro Andrea Matthioli* is a 16th-century commentary on Dioscorides' *De Materia Medica*, a foundational text in pharmacology and botany. Written by Italian physician Pietro Andrea Matthioli, the work expands on Dioscorides' descriptions by including observations of plants discovered during the Renaissance, along with detailed botanical illustrations. It served as both a medical reference and a botanical guide, blending classical knowledge with contemporary discoveries to advance the understanding of plants and their medicinal uses.
 
-The [Google Books online version](https://www.google.com/books/edition/De_I_Discorsi_Di_M_Pietro_Andrea_Matthio/cDBgAAAAcAAJ?hl=en&gbpv=1) was used for the experiments.  
+The [Google Books online version](https://www.google.com/books/edition/De_I_Discorsi_Di_M_Pietro_Andrea_Matthio/cDBgAAAAcAAJ?hl=en&gbpv=1) was used for the experiments.
 
-The highest-resolution version of selected pages were extracted from the document and submitted to the AI tool.  The image resolution of the images used for the experiments varied slightly but was typically around 1600x2500 pixels in size.
+The Google Books API does not provide a means for accessing individual page images.  For these experiments, page images were individually downloaded from the online version and saved in a local folder for uploading to ChatGPT.  To download a high-resolution image for a page, right-clicking on the image provides a menu with image download options.  Selecting "Open image in new tab" will load the page image in a new tab.  The image resolution can be increased by changing the `&w=1025` query parameter in the browser URL bar to `&w=2000` and resubmitting the request.  This process produces images around 1600x2500 pixels in size.  The image is then saved to a local folder for uploading to ChatGPT.  The images used for these experiments can be found in the GitHub repository [data](https://github.com/plant-humanities/herbal-ai-exploration/tree/main/discorsi-matthioli/data) folder.
 
 # Experiments
 
