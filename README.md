@@ -1,1 +1,5 @@
-# Plant Humanities AI Experiments
+# Plant Humanities AI Exploration
+
+This repository presents the findings from an informal investigation into the application of Generative AI for analyzing selected historical texts in the field of botany. The primary goal of this exploration was to assess the capabilities of modern AI tools, as they exist in late 2024, in processing, interpreting, and extracting meaningful insights from botanical works of historical significance.
+
+By focusing on historical botanical texts, this investigation sought to understand the extent to which AI can bridge the gap between centuries-old writings and contemporary scientific understanding. The study evaluated the ability of these tools to accurately interpret complex botanical descriptions, identify species from historical illustrations, and contextualize the information within the framework of Renaissance and early modern botanical knowledge. Ultimately, this exploration serves as a benchmark for how effectively AI can contribute to the study of historical botany at this point in technological development.

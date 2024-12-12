@@ -4,7 +4,7 @@ This website presents the findings from an informal investigation into the appli
 
 By focusing on historical botanical texts, this investigation sought to understand the extent to which AI can bridge the gap between centuries-old writings and contemporary scientific understanding. The study evaluated the ability of these tools to accurately interpret complex botanical descriptions, identify species from historical illustrations, and contextualize the information within the framework of Renaissance and early modern botanical knowledge. Ultimately, this exploration serves as a benchmark for how effectively AI can contribute to the study of historical botany at this point in technological development.
 
-The works included in this exploration are shown below.
+The works included in this exploration are shown below.  Clicking on the title link will take you to a page listing the experiments performed on the work.
 
 ##
 `.cards`
