@@ -29,6 +29,6 @@ The works included in this exploration are shown below.  Clicking on the title l
 
 [Rariorum Plantarum Historia](rariorum-plantarum-historia)
 
-![Rariorum Plantarum Historia](Rariorum Plantarum Historia)
+![Rariorum Plantarum Historia](https://books.google.com/books/content?id=dP9Ek1NDu2EC&pg=PP5&img=1&zoom=3&hl=en&sig=ACfU3U1OjARkv06BlDfz0JD0v2dlPs0MZg)
 
 *Rariorum Plantarum Historia* (1601) by Carolus Clusius is a groundbreaking botanical work documenting rare and exotic plants from Europe and beyond. Published by the renowned Plantin Press in Antwerp, it combines detailed descriptions with scientific precision, reflecting Clusius' pivotal role in early modern botany. This work significantly contributed to the understanding and classification of plants in the Renaissance era.
