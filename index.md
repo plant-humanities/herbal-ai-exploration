@@ -24,3 +24,11 @@ The works included in this exploration are shown below.  Clicking on the title l
 ![The herbal](https://iiif.archive.org/image/iiif/3/gri_33125012606592%2Fgri_33125012606592_jp2.zip%2Fgri_33125012606592_jp2%2Fgri_33125012606592_0006.jp2/full/400,/0/default.jpg)
 
 *The Herball, or, Generall Historie of Plantes* by John Gerard is a landmark English herbal first published in 1597, offering detailed descriptions of hundreds of plants alongside woodcut illustrations. Drawing heavily from earlier works by European botanists like Dodoens and Lobel, Gerard's book emphasizes the medicinal properties, cultivation, and uses of plants, including many found in England. Widely read in its time, it became a standard reference for gardeners, physicians, and botanists, though it was later revised and expanded by Thomas Johnson in 1633 to correct errors and enhance its scientific accuracy.
+
+###
+
+[Rariorum Plantarum Historia](rariorum-plantarum-historia)
+
+![Rariorum Plantarum Historia](Rariorum Plantarum Historia)
+
+*Rariorum Plantarum Historia* (1601) by Carolus Clusius is a groundbreaking botanical work documenting rare and exotic plants from Europe and beyond. Published by the renowned Plantin Press in Antwerp, it combines detailed descriptions with scientific precision, reflecting Clusius' pivotal role in early modern botany. This work significantly contributed to the understanding and classification of plants in the Renaissance era.
