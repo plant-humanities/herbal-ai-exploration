@@ -12,3 +12,7 @@ Digitized source - [Google Books](https://www.google.com/books/edition/_/dP9Ek1N
 
 - [Document overview](document-overview)
 - [Page analysis - PA1](pa1)
+
+# Ad-hoc exploration
+
+Ad-hoc exploration of *Rariorum Plantarum Historia* can be accomplished using the tool found on the [explore](explore) page.  This is an experimental proof-of-concent tool.  The Chrome browser is required to use the current version of the tool.
