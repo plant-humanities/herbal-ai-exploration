@@ -14,7 +14,9 @@ This page allows ad hoc exploration of *Rariorum Plantarum Historia* using ChatG
 `.columns`
 
 ###
+
 `aichat #iframe1 box-shadow`
 
 ###
+
 `google-books dP9Ek1NDu2EC "Rariorum Plantarum Historia - 1601" box-shadow`
