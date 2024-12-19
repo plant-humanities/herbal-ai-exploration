@@ -19,4 +19,4 @@ This page allows ad hoc exploration of *Rariorum Plantarum Historia* using ChatG
 
 ###
 
-<iframe allowfullscreen allow="clipboard-write 'self'" src="https://ifc.juncture-digital.org//google-books?id=dP9Ek1NDu2EC&caption=Rariorum Plantarum Historia - 1601&base=/herbal-ai-exploration/rariorum-plantarum-historia/"></iframe>
+<iframe allowfullscreen allow="clipboard-write" src="https://ifc.juncture-digital.org//google-books?id=dP9Ek1NDu2EC&caption=Rariorum Plantarum Historia - 1601&base=/herbal-ai-exploration/rariorum-plantarum-historia/"></iframe>
