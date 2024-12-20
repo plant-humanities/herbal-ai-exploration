@@ -6,9 +6,7 @@
 
 # Explore *Rariorum Plantarum Historia* using ChatGPT
 
-This page allows ad hoc exploration of *Rariorum Plantarum Historia* using ChatGPT (using Chrome only).  To analyze a page from the herbal, scroll to the page of interest and right-click on the page image and then select "Copy Image Address" to copy the image URL to the clipboard.  Then, paste the URL into the "Enter Question" input box in the AI Chat tool and press enter.  ChatGPT will then return an initial analysis of the image contents.  Further questions may then be asked about the page using the "Enter Question" input box.
-
-**Note that this only works with Chrome currently**  Other browsers do not support image URL copy from an IFrame.  This will be addressed in a future version.
+This page lets you explore Rariorum Plantarum Historia interactively with ChatGPT. To analyze a specific page, first locate it in the viewer. Then, click the copy icon in the top-left corner to copy its image URL. Next, paste the copied URL into the “Enter Question” box of the AI Chat tool and press Enter. ChatGPT will provide an initial analysis of the image, and you can ask further questions about the page by entering them into the same input box.
 
 ##
 `.columns`
