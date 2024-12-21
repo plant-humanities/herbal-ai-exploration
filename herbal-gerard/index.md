@@ -15,3 +15,7 @@ Digitized source - [Internet Archive](https://archive.org/details/gri_3312501260
   - [Page 18](text-recognition/p18)
 - [Botanical description of plant illustrations](botanical-description)
   - [Page 46](botanical-description/p46)
+
+# Ad-hoc exploration
+
+Ad-hoc exploration of *The herball, or, Generall historie of plantes* can be accomplished using the tool found on the [explore](explore) page.  This is an experimental proof-of-concent tool.
