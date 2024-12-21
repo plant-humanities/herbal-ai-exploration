@@ -19,3 +19,7 @@ The Google Books API does not provide a means for accessing individual page imag
   - [Page ID PA18](botanical-description/pa18)
   - [Page ID PA24](botanical-description/pa24)
   - [Page ID PA30](botanical-description/pa30)
+
+# Ad-hoc exploration
+
+Ad-hoc exploration of *De I Discorsi di M. Pietro Andrea Matthioli* can be accomplished using the tool found on the [explore](explore) page.  This is an experimental proof-of-concent tool.
