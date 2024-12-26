@@ -1,6 +1,6 @@
 `breadcrumbs`
 
-`google-books dP9Ek1NDu2EC "Rariorum Plantarum Historia - 1601" right`
+`google-book dP9Ek1NDu2EC "Rariorum Plantarum Historia - 1601" right`
 
 # Rariorum Plantarum Historia
 

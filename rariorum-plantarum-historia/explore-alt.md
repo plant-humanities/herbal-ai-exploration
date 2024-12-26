@@ -17,4 +17,4 @@ This page lets you explore Rariorum Plantarum Historia interactively with ChatGP
 
 ###
 
-<iframe allowfullscreen allow="clipboard-write" src="https://ifc.juncture-digital.org//google-books?id=dP9Ek1NDu2EC&caption=Rariorum Plantarum Historia - 1601&base=/herbal-ai-exploration/rariorum-plantarum-historia/"></iframe>
+<iframe allowfullscreen allow="clipboard-write" src="https://ifc.juncture-digital.org//google-book?id=dP9Ek1NDu2EC&caption=Rariorum Plantarum Historia - 1601&base=/herbal-ai-exploration/rariorum-plantarum-historia/"></iframe>

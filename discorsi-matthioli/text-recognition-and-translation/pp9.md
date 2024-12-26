@@ -2,7 +2,7 @@
 
 # Text recognition and translation experiment
 
-`google-books #iframe1 cDBgAAAAcAAJ "Mattioli Herbal - 1604" pageid=PP9 right`
+`google-book #iframe1 cDBgAAAAcAAJ "Mattioli Herbal - 1604" pageid=PP9 right`
 
 In this experiment a [page image](https://books.google.com/books/content?id=cDBgAAAAcAAJ&pg=PP9&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2wXAo8ykSVOub4ulhGjCkYNtw2jQ&w=1025) with headings and text spanning the full length of the page (including an illuminated initial) is submitted to the AI tool for text recognition (Optical Character Recognition) and translation into English.  The original text on was in Italian.
 

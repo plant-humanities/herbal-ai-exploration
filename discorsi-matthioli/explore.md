@@ -17,4 +17,4 @@ This page allows ad hoc exploration of *De I Discorsi di M. Pietro Andrea Matthi
 
 ###
 
-`google-books cDBgAAAAcAAJ "Mattioli Herbal - 1604" box-shadow`
+`google-book cDBgAAAAcAAJ "Mattioli Herbal - 1604" box-shadow`
