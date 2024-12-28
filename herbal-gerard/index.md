@@ -1,6 +1,6 @@
 `breadcrumbs`
 
-`image ia:gri_33125012606592 seq=7 static right`
+`iiif-juncture ia:gri_33125012606592 seq=7 static right`
 
 # The herball, or, Generall historie of plantes
 

@@ -226,4 +226,4 @@ These works reflect the Dragon Tree's historical allure and its role in bridging
 ### Image analyzed
 `.sticky`
 
-`image gh:plant-humanities/ai-experiments/main/rariorum-plantarum-historia/data/dP9Ek1NDu2EC-PA1.jpg "Rariorum Plantarum Historia, PA1"`
+`iiif-juncture gh:plant-humanities/ai-experiments/main/rariorum-plantarum-historia/data/dP9Ek1NDu2EC-PA1.jpg "Rariorum Plantarum Historia, PA1"`
